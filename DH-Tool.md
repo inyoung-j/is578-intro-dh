@@ -2,16 +2,27 @@
 
 
 1-1. Name of the tool: Python
+
 1-2. Link to the tool: <https://www.python.org/>
+
 1-3. Link to the abstract or DH project: <https://dh-abstracts.library.virginia.edu/works/11841>
+
 1-4. A short description: Python can be used for multiple purposes. 
+
 In this research, the author used Python with Natural Language Processing to tokenize, 
+
 tag, and parse corpus from the chosen document and extract spatial data 
+
 concerning the cognitive mapping of the document. 
+
 This helps distance reading effectively,
+
 widens understanding of the document along with the social and cultural aspects,
+
 and opens up further discussion. 
+
 I have used Python for basic metadata sorting and extracting.
+
 Still, I’m a beginner at this tool and want to learn more about this tool for my future work.
 
 

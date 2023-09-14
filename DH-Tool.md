@@ -24,5 +24,15 @@
     1) Name of the tool: Srophé App 
     2) Link to the tool: <https://srophe.app/>
     3) Link to the abstract or DH project: <https://dh-abstracts.library.virginia.edu/works/11970>
-    4) A short description: The Srophé App is an open-source database for digital humanities research in the history of culture and encoding cultural heritage. Scholars can encode and link historical data with texts, persons, geography, events, and material artifacts. This tool can be used for digital projects for distant reading, architectural analysis, and geographical studies. I’ve never used this tool before, but I have used ArcGIS, a Geographic Information System (GIS) to display and create interactive geographic data with texts, locations, and images. I want to explore the Srophé App compare this tool to ArcGIS, and find out which tool suits me the most.
+    4) A short description: The Srophé App is an open-source database for digital humanities research 
+    in the history of culture and encoding cultural heritage. 
+    Scholars can encode and link historical data with texts, 
+    persons, geography, events, and material artifacts. 
+    This tool can be used for digital projects for distant reading, 
+    architectural analysis, and geographical studies. 
+    I’ve never used this tool before, but I have used ArcGIS, 
+    a Geographic Information System (GIS) to display and create 
+    interactive geographic data with texts, locations, and images. 
+    I want to explore the Srophé App compare this tool to ArcGIS, 
+    and find out which tool suits me the most.
 

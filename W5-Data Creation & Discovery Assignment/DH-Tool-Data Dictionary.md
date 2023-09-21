@@ -4,26 +4,25 @@ By Inyoung Jang
 
 All DH Tools were categorized and arranged from category, name, link, description, and area of use, to contributor’s information. 
 
-
 The categories are as below:
 
 
-No.: Number of the Data
+<li> No.: Number of the Data
 
-Tool Category
+<li> Tool Category
 
-Tool Name
+<li> Tool Name
 
-Link to Tool
+<li> Link to Tool
 
-Description of the Tool
+<li> Description of the Tool
 
-Area of Use
+<li> Area of Use
 
-Abstract Name
+<li> Abstract Name
 
-Link to Abstract
+<li> Link to Abstract
 
-Contributor: who searched the tool
+<li> Contributor: who searched the tool
 
-Experience: Contributor’s Experience with the Tool 
+<li> Experience: Contributor’s Experience with the Tool

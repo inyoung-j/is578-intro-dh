@@ -1,3 +1,4 @@
 # Index Explanation
 
-The index includes all data related to Python in 2022.
+The cvs file includes all data related to Python in 2022 sorted by OpenRefine.
+<li> conference_year has been transformed into Date format.

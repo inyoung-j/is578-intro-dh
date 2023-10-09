@@ -1,4 +1,4 @@
 # Data Visualization
 
-<iframe title="1996~2023 DH Tools " aria-label="Interactive area chart" id="datawrapper-chart-NMdoh" src="https://datawrapper.dwcdn.net/NMdoh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="358" data-external="1"></iframe>
+![1996-2023-dh-tools-nbsp-](https://github.com/inyoung-j/is578-intro-dh/assets/144145472/ddc182a5-4351-44a1-b78f-4101f705ad49)
 <https://datawrapper.dwcdn.net/NMdoh/1/>

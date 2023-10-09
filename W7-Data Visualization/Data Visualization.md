@@ -1,3 +1,3 @@
 # Data Visualization
 
-<div style="min-height:358px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/NMdoh/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/NMdoh/full.png" alt="" /></noscript></div>
+<iframe title="1996~2023 DH Tools " aria-label="Interactive area chart" id="datawrapper-chart-NMdoh" src="https://datawrapper.dwcdn.net/NMdoh/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="358" data-external="1"></iframe>

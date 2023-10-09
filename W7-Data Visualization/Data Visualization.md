@@ -1,5 +1,5 @@
 # Data Visualization
 
-<img src="https://github.com/inyoung-j/is578-intro-dh/assets/144145472/ddc182a5-4351-44a1-b78f-4101f705ad49.png" width="500" height="420"/>
+<img width="587" alt="graph" src="https://github.com/inyoung-j/is578-intro-dh/assets/144145472/5b7c6336-311c-4fda-a38c-beefbecbb2ea">
 
 [Explore](https://datawrapper.dwcdn.net/NMdoh/1/")

@@ -11,4 +11,3 @@ Visualization Process:
 2. Columnized by key column year and value column tool_count with note column using OpenRefine
 3. Transposed row and column using Datawrapper
 4. Customized colors, curves, and grid to make it more discernable
-5. You can explore more in detail by visiting the link
